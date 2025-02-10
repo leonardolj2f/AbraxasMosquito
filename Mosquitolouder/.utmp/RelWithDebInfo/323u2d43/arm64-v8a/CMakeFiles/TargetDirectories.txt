@@ -1,0 +1,5 @@
+C:/Users/xrlab/OneDrive/Documentos/Abraxas/Mosquitolouder/.utmp/RelWithDebInfo/323u2d43/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/xrlab/OneDrive/Documentos/Abraxas/Mosquitolouder/.utmp/RelWithDebInfo/323u2d43/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/xrlab/OneDrive/Documentos/Abraxas/Mosquitolouder/.utmp/RelWithDebInfo/323u2d43/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/xrlab/OneDrive/Documentos/Abraxas/Mosquitolouder/.utmp/RelWithDebInfo/323u2d43/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/xrlab/OneDrive/Documentos/Abraxas/Mosquitolouder/.utmp/RelWithDebInfo/323u2d43/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
